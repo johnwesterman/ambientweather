@@ -11,5 +11,4 @@ For the AmbientWeather API documentation go here:
 https://github.com/ambient-weather/api-docs
 
 John Westerman
-john at westerman dot photo
 https://westerman.photo/

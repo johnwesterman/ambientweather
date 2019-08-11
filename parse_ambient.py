@@ -3,7 +3,7 @@
 ##
 ## August 11, 2019 00:36
 ##
-## Written by John W Westerman, john @ westerman dot photo
+## Written by John W Westerman
 ##        https://westerman.photo/
 ##
 
