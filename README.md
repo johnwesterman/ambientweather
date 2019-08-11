@@ -8,6 +8,7 @@ The output to this program looks like this:
 
 When you pretty up the JSON it'll look like this:
 
+```text
 {
 	"ambient1.ham.co": {
 		"outHumi": "--",
@@ -34,6 +35,7 @@ When you pretty up the JSON it'll look like this:
 		"gustspeed": "----"
 	}
 }
+```
 
 You can then use JSON to parse out the various fields you may want to interpret. I'm not interested in all the available fields so I parse out what I want with the Python code.
 
