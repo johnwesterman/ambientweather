@@ -9,6 +9,3 @@ I currently do not have any internet facing data to demo this so will add some s
 For the AmbientWeather API documentation go here:
 
 https://github.com/ambient-weather/api-docs
-
-John Westerman
-https://westerman.photo/
