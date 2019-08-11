@@ -1,5 +1,15 @@
-# AmbientWeather 4.5.8 HTML Scraping of Live Data HowTo Documentation
+# AmbientWeather WS-1550-IP (version 4.5.8 firmware) HTML Scraping of Live Data HowTo Documentation
 
-This repository holds the underlying markup for the [API Official Documentation](https://ambientweather.docs.apiary.io/#). If you see room for improvement feel free to issue a pull request.
+This repository holds code I've written to scrape the "Live Data" page data, put them in variables and allow you to uses these variables in your own code without using the API and ambientweater.net.
 
-This repo also houses the [Wiki](https://github.com/ambient-weather/api-docs/wiki)
+One of my weather apps does not use the Internet so going to ambientweater.net is not an option. This tool allows me to get updated weather data as often as I need without restriction.
+
+I currently do not have any internet facing data to demo this so will add some screenshots when I can.
+
+For the AmbientWeather API documentation go here:
+
+https://github.com/ambient-weather/api-docs
+
+John Westerman
+john at westerman dot photo
+https://westerman.photo/

@@ -3,7 +3,8 @@
 ##
 ## August 11, 2019 00:36
 ##
-## Written by John W Westerman, flight2k @ gmail dot com
+## Written by John W Westerman, john @ westerman dot photo
+##        https://westerman.photo/
 ##
 
 import requests
