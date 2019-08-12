@@ -49,6 +49,10 @@ I currently do not have any internet facing data to demo this. This is the kind 
 
 ![Wind Information](windinfo.png)
 
+This is a look at how I use Splunk to display the data. Keep in mind that my Ambient Weather station is just one input into this. Splunk will keep the data for as long as I have storage to store the JSON data (years) and I can pivot the data any way I want. None of this depends on access to the Internet.
+
+![Splunk Panel](splunkpanel.png)
+
 For the AmbientWeather API documentation go here:
 
 https://github.com/ambient-weather/api-docs
