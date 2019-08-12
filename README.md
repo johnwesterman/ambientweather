@@ -53,6 +53,10 @@ This is a look at how I use Splunk to display the data. Keep in mind that my Amb
 
 ![Splunk Panel](splunkpanel.png)
 
+You don't have to use Splunk. It's what I've chosen to store and present the weather data. There are any other number of tools that can do this including writing something on your own.
+
+I did not use any API or other tools from AmbientWeather to do this. There may be better ways to scrape the data. You can do very similar things on their IoT web site and the API tool to get that data. They have transaction restrictions and minimim record granularity that is above my threshold of 15 seconds to 1 minute.
+
 For the AmbientWeather API documentation go here:
 
 https://github.com/ambient-weather/api-docs
