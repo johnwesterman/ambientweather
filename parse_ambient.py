@@ -32,4 +32,3 @@ for tr in all_td_lines:
 
 # This prints a JSON sentence of data. I put this in a SPLUNK database.
 print "{ \"ambient1.ham.co\" : ", json.dumps(Fields),  "}"
-print "test"
