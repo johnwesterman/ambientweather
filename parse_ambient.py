@@ -6,6 +6,7 @@
 ## Written by John W Westerman
 ##        https://westerman.photo/
 ##
+## Version 1.0.0
 
 import requests
 import json
